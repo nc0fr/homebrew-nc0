@@ -1,0 +1,29 @@
+Nicolas Paul's Tap
+------------------
+
+Some formulaes which are not available inside Homebrew's core [0] but
+are still used by Nicolas Paul [1].
+
+
+How do I install these formulae?
+--------------------------------
+
+First install the tap locally:
+
+    brew tap nc0fr/nc0
+
+Then you can install any formulae using `brew install`:
+
+    brew install nc0fr/nc0/<formula>
+
+
+Documentation
+-------------
+
+Read both `brew help` and the online Homebrew's documentation [2] for
+information about Homebrew and external taps.
+
+
+[0]: https://github.com/homebrew/homebrew-core
+[1]: https://NC0.fr
+[2]: https://docs.brew.sh
